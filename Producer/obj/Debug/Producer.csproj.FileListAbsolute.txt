@@ -1,0 +1,28 @@
+D:\VS2010Test\Consumer\Producer\bin\Debug\Producer.exe.config
+D:\VS2010Test\Consumer\Producer\bin\Debug\Producer.exe
+D:\VS2010Test\Consumer\Producer\bin\Debug\Producer.pdb
+D:\VS2010Test\Consumer\Producer\bin\Debug\AForge.dll
+D:\VS2010Test\Consumer\Producer\bin\Debug\AForge.Video.DirectShow.dll
+D:\VS2010Test\Consumer\Producer\bin\Debug\AForge.Video.dll
+D:\VS2010Test\Consumer\Producer\bin\Debug\AForge.xml
+D:\VS2010Test\Consumer\Producer\bin\Debug\AForge.Video.xml
+D:\VS2010Test\Consumer\Producer\bin\Debug\AForge.Video.DirectShow.xml
+D:\VS2010Test\Consumer\Producer\obj\Debug\Producer.csproj.AssemblyReference.cache
+D:\VS2010Test\Consumer\Producer\obj\Debug\Producer.csproj.CoreCompileInputs.cache
+D:\VS2010Test\Consumer\Producer\obj\Debug\Producer.csproj.CopyComplete
+D:\VS2010Test\Consumer\Producer\obj\Debug\Producer.exe
+D:\VS2010Test\Consumer\Producer\obj\Debug\Producer.pdb
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\bin\Debug\Producer.exe.config
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\bin\Debug\Producer.exe
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\bin\Debug\Producer.pdb
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\bin\Debug\AForge.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\bin\Debug\AForge.Video.DirectShow.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\bin\Debug\AForge.Video.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\bin\Debug\AForge.xml
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\bin\Debug\AForge.Video.xml
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\bin\Debug\AForge.Video.DirectShow.xml
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\obj\Debug\Producer.csproj.AssemblyReference.cache
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\obj\Debug\Producer.csproj.CoreCompileInputs.cache
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\obj\Debug\Producer.csproj.Up2Date
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\obj\Debug\Producer.exe
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\Producer\obj\Debug\Producer.pdb

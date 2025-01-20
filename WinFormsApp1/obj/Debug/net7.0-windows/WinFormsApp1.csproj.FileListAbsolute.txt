@@ -1,0 +1,54 @@
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\pthreadVC2.dll
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\opencv_world470.dll
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\yolo_cpp_dll.dll
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\yolo_cpp_dll_no_gpu.dll
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll.config
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\FastYolo.dll
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\coco.names
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\yolov3.cfg
+D:\VS2010Test\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\yolov3.weights
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\pthreadVC2.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\opencv_world470.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\yolo_cpp_dll.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\yolo_cpp_dll_no_gpu.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\coco.names
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\yolov3.cfg
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\yolov3.weights
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll.config
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\bin\Debug\net7.0-windows\FastYolo.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinForms.E4050A35.Up2Date
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\VS2010Test\слежка + yolo\WindowsFormsApp2\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
